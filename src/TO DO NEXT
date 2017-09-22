@@ -1,0 +1,22 @@
+TO DO NEXT
+
+* Memory management
+
+* Paging
+
+* Threads
+	* Threads are either user threads or kernel threads (for now we're just going to implement kernel threads)
+	* Scheduler?
+
+* Have a more reasonable input terminal
+	* Better VGA text, input commands. 
+
+* Scheduling? 
+	* So we don't do too much in the interrupt calls?
+
+* Create some sort of basic terminal command to run
+
+
+TO DO FUTURE
+
+* Properly separate out architecture dependent code.
