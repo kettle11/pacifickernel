@@ -23,15 +23,15 @@ To build:
 
 		III.  Run the build_gcc_for_pacific.sh script inside PacificOS/external (this is just a script that automates the steps in the OS dev wiki article)
 
-	2. In the PacificOS directory run "make" or "make run" to also launch the kernel.
+	2. In the PacificOS directory run "make" to build and "make run" to make then run.
 
 To get to this point I used the following resources:
 
 1. https://os.phil-opp.com/multiboot-kernel/ 
-Excellent tutorial for learning the basics, but I diverged when the author switched to Rust
+Excellent tutorial for learning the basics, but I diverged when the author switched to Rust.
 
 2. http://wiki.osdev.org/Expanded_Main_Page 
-Lots of great info here even if much of the wiki spends time explaining how scary OS development is
+Lots of great info here even if much of the wiki spends time explaining how scary OS development is.
 
 3. http://www.osdever.net/bkerndev/Docs/intro.htm 
-A little outdated, but a great step by step overview of the different parts of a basic kernel
+A little outdated, but a great step by step overview of the different parts of a basic kernel.
